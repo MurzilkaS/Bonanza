@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+hr{
+    margin: 25 25px;
+}
+
+.header{
+
+padding: 10px;
+background-color: #beb7b7;
+
+}
+.header .headericons{
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-around;
+
+}
+.header .headericons i{
+    font-size: 20pt;
+    columns: #fff;
+}
+
+.sec-container{
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+
+}
